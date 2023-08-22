@@ -1,0 +1,6 @@
+№	         номер п/п
+Description	 описание
+Expected Result	 ожидаемый результат
+Result	         результат (Passed/Failed)
+Comments	 комментарии
+Environment	 Окружение
